@@ -61,3 +61,10 @@ Up-To-Date Operating System
 ### By updating to modern operating systems like OS X Mavericks and Windows 7/8, you receive patches that help keep your system secure!
 
 If you are running an end-of-life operating system (Windows XP or Snow Leopard), click [here](https://software.berkeley.edu/MS-DL-instructions) to be sent to UC Berkeley's Software Central. These instructions will help you install a more modern operating system. This service is offered *for free* for all UC Berkeley students and staff.
+
+Modern Web Browser
+------------------
+
+### Using a modern internet browser provides you greater protection against web-based attacks!
+
+If you do not already have it, we recommend you download [Mozilla Firefox](http://www.mozilla.org/firefox).
